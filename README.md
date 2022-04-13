@@ -1,2 +1,2 @@
+~ $ cd Advofcrime.github.io
 ~ $ echo "Newstep" > index.html
-~ $ echo "Newstep" > style.css
